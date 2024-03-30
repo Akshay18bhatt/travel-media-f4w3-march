@@ -12,7 +12,7 @@ const Navbar= ()=>{
             <div className="navbar-container">
                 <h2>TravelMedia.in</h2>
                 <div className="links-div">
-                    <NavLink  to={"/home"} className="material-icons link">home</NavLink>
+                    <NavLink  to={""} className="material-icons link">home</NavLink>
                     <NavLink  to={`/details/${postId}`} className="material-icons link">bookmark</NavLink>
                 </div>
                 <div></div>

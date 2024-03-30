@@ -16,8 +16,8 @@ const App= ()=>{
             <div>
                     <BrowserRouter>
                         <Routes>
-                            <Route path="/" element={<Navbar />} >
-                                <Route path="/home" element={<Home />} />
+                            <Route path="" element={<Navbar />} >
+                                <Route path="" element={<Home />} />
                                 <Route path="/details/:postId" element={<Details />} />
                             </Route>
                         </Routes>
