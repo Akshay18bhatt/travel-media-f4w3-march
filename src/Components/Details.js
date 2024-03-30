@@ -65,7 +65,10 @@ const Details = () => {
           </div>
         </div>
       )}
-
+    <br/>
+    <br/>
+    <br/>
+    <h2>More Posts</h2>
       <div className="posts-container">
         {posts_Arr.length>0 && 
         
