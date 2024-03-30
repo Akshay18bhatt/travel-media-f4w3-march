@@ -144,7 +144,6 @@ body{
     width: 450px;
     height: 350px;
     padding: 10px;
-   background-color: yellow;
    position: relative;
    background-image: url("./img/car.jpg");
    background-size: cover;
